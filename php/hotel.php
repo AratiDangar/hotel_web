@@ -41,7 +41,7 @@ $res=mysqli_query($conn,$sql);
 
 
 if($res){
-    echo 'your messege sent successfuly';
+    echo '<style='color:red;'>your messege sent successfuly</style>';
   
 }
 else{
