@@ -53,7 +53,7 @@ $res=mysqli_query($conn,$sql);
 
 
 if($res){
-    echo 'your messege sent successfuly';
+    echo 'your reservation confirm';
   
 }
 else{
